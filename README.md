@@ -1,13 +1,32 @@
-# BuaKoi
+Project Description:
 
-### Solution Stack -
-● language-independent 3-tier architecture | Application Layer | OOP Principles
-● Normalized DB (2NF) | Database CRUD
+Project Name: BuaKoi Maid Service Management System
 
-### Features -
-● Users can Search/Hire a maid
-● Admin can view Hiring status/Search/Insert/Update/Delete Maid
-● CRUD Operations for both Admin & Users side
+Solution Stack:
+1. Language-independent 3-tier architecture | Application Layer | OOP Principles
+2. Normalized DB (2NF) | Database CRUD
+
+Features:
+1. Users can Search/Hire a maid 
+2. Admin can view Hiring status/Search/Insert/Update/Delete Maid 
+3. CRUD Operations for both Admin & Users side
+
+Tech Stack:
+1. C# programming language
+2. .NET Framework 4.7.2
+3. Windows Forms for the UI
+4. Visual Studio and MSBuild for development and build automation
+5. MySQL database, as indicated by the MySql.Data reference
+6. Some other standard .NET libraries and dependencies for handling XML, data access, etc.
+
+The BuaKoi Maid Service Management System is a professional and reliable solution for managing maid service hiring processes. The system follows a language-independent 3-tier architecture, adhering to Object-Oriented Programming principles. The database is normalized using the 2NF model and utilizes MySQL for efficient CRUD operations.
+
+The server-side programming is implemented using the .NET Framework 4.7.2, providing stability and performance. Windows Forms are used for the UI, ensuring a simple and user-friendly experience. Visual Studio and MSBuild are utilized for development and build automation, ensuring efficient and reliable code development.
+
+In addition, standard .NET libraries and dependencies are utilized for handling XML, data access, and other necessary features. Users can search and hire maids through the system, while admins can view hiring status and perform CRUD operations on maid data.
+
+Overall, the BuaKoi Maid Service Management System provides a comprehensive solution for managing maid services, with a focus on efficiency, reliability, and user-friendliness.
+
 <br /><br />
 -> Log in form <-
 ![](screenshot/login.jpg)
